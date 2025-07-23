@@ -4,9 +4,9 @@
 ## 👤 About Me
 Hi there, my name is Daniel Giraldo. I am a software Engineer a person with excellent interpersonal relationships, respectful and good teamwork, with desires and ease of learning, responsible, punctual, organized, and honest, I try to do my work as best as possible.
 
-My areas of interest are frontend/fullstack deveolpment, everything that has to do with technology.
+My areas of interest are frontend/fullstack development.
 
-I LOVE TECH and improve myself every day.
+I love tech and improve myself every day.
 
 <h3 align="left">📇 Social & Contact</h3>
 <p align="left">
